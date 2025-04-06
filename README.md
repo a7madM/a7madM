@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed 👋
 
-I'm a passionate software engineer with a strong focus on building scalable backend systems and thoughtful user experiences. With 6+ years of professional experience in **Ruby on Rails**, I'm now diving deeper into **Golang**, **Kubernetes**, and **microservices architecture**. 
+I'm a passionate software engineer with a strong focus on building scalable backend systems and thoughtful user experiences. With 7+ years of professional experience in **Ruby on Rails**, I'm now diving deeper into **Golang**, **Kubernetes**, and **microservices architecture**. 
 
 ### 🚀 What I'm Working On
 - 🔧 Building **What Is Going?** – a trend-tracking web app powered by Ruby, Vue.js, and Golang, deployed with K3s and Argo CD.

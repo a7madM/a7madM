@@ -14,7 +14,6 @@ I'm a passionate software engineer with a strong focus on building scalable back
 - **Tools**: Elasticsearch, RabbitMQ, Prometheus, Grafana
 
 ### 📫 Let's Connect
-- 🐦 Twitter: [@a7madM]([https://twitter.com/a7madM](https://x.com/ahmad_magdy94))
 - 🌐 Website: [whatisgoing.com](https://whatisgoing.com)
 - 💼 LinkedIn: [linkedin.com/in/a7mdmgdi](https://www.linkedin.com/in/a7mdmgdi/)
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed 👋
 
-I'm a passionate software engineer with a strong focus on building scalable backend systems and thoughtful user experiences. With 7+ years of professional experience in **Ruby on Rails**, I'm now diving deeper into **Golang**, **Kubernetes**, and **microservices architecture**. 
+I'm a passionate software engineer with a strong focus on building scalable backend systems and thoughtful user experiences. With 7+ years of professional experience in **Ruby on Rails**, I'm now diving deeper into **Java**, **Golang**, **Kubernetes**, and **microservices architecture**. 
 
 ### 🚀 What I'm Working On
 - 🔧 Building **What Is Going?** – a trend-tracking web app powered by Ruby, Vue.js, and Golang, deployed with K3s and Argo CD.
@@ -8,13 +8,13 @@ I'm a passionate software engineer with a strong focus on building scalable back
 - 🐳 Running everything in containers and loving the DevOps side with **Helm**, **Prometheus**, **Grafana**, and **CI/CD pipelines**.
 
 ### 🛠️ Tech Stack
-- **Languages**: Ruby, Go, JavaScript/TypeScript
+- **Languages**: Ruby, Java, Go, JavaScript
 - **Frameworks**: Ruby on Rails, Vue.js
 - **DevOps**: Docker, Kubernetes (K3s), Helm, Argo CD, GitHub Actions
 - **Tools**: Elasticsearch, RabbitMQ, Prometheus, Grafana
 
 ### 📫 Let's Connect
-- 🐦 Twitter: [@a7madM](https://twitter.com/a7madM)
+- 🐦 Twitter: [@a7madM]([https://twitter.com/a7madM](https://x.com/ahmad_magdy94))
 - 🌐 Website: [whatisgoing.com](https://whatisgoing.com)
 - 💼 LinkedIn: [linkedin.com/in/a7mdmgdi](https://www.linkedin.com/in/a7mdmgdi/)
 
